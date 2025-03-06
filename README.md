@@ -3,7 +3,7 @@
 ### Pokemon (and lines):
 ##### Celebi
 ##### Horsea
-##### Sobble
+##### Oshawott
 ##### Oddish
 ##### Rowlet
 ##### Cyndaquil (Hisuian only)
@@ -13,6 +13,7 @@
 ##### Vulpix (Alolan only)
 ##### Mareanie
 ##### Abra
+##### Solosis
 
 ### Attributes
 ##### Cooldown Reduction
