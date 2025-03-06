@@ -1,16 +1,37 @@
 # Pokemon in Minecraft
 
 ### Pokemon (and lines):
-##### Celebi
-##### Oshawott
-##### Oddish
-##### Cyndaquil (Hisuian only)
-##### Slugma
-##### Weedle
-##### Cutiefly
-##### Vulpix (Alolan only)
-##### Mareanie
-##### Solosis
+#### Oshawott 
+#### Oddish (Grass/Poison)
+##### Chlorophyll
+##### Absorb
+##### Acid
+#### Gloom (Level 30)
+##### Chlorophyll
+##### Mega Drain
+##### Acid
+##### Sludge
+#### Vileplume (Level 55, with Leaf Stone already consumed)
+##### Chlorophyll
+##### Giga Drain
+##### Acid Spray
+##### Sludge Bomb
+##### Petal Blizzard (take blossom particles and change their color to all the different ones that we can use)
+#### Cyndaquil (Hisuian only)
+##### Blaze
+##### Ember
+##### Smoke Screen
+#### Quilava
+##### Blaze
+##### Flame Burst
+##### Swift
+##### Smoke Screen
+#### Slugma
+#### Weedle
+#### Cutiefly
+#### Vulpix (Alolan only)
+#### Mareanie
+#### Solosis
 
 ### Types:
 #### All moves will have relatively low base damage and scaling, STAB moves will have 0.25 increase in damage.
