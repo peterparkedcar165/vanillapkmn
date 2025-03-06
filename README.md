@@ -2,17 +2,14 @@
 
 ### Pokemon (and lines):
 ##### Celebi
-##### Horsea
 ##### Oshawott
 ##### Oddish
-##### Rowlet
 ##### Cyndaquil (Hisuian only)
 ##### Slugma
 ##### Weedle
 ##### Cutiefly
 ##### Vulpix (Alolan only)
 ##### Mareanie
-##### Abra
 ##### Solosis
 
 ### Types:
