@@ -1,86 +1,86 @@
 # Pokemon in Minecraft
 
 ### Pokemon (and lines):
-#### Oddish (Grass/Poison)
+### Oddish (Grass/Poison)
 ##### Chlorophyll
 ##### Absorb
 ##### Acid
 
-#### Gloom (Level 30)
+### Gloom (Level 30)
 ##### Chlorophyll
 ##### Mega Drain
 ##### Acid
 ##### Sludge
 
-#### Vileplume (Level 55, with Leaf Stone already consumed)
+### Vileplume (Level 55, with Leaf Stone already consumed)
 ##### Chlorophyll
 ##### Giga Drain
 ##### Acid Spray
 ##### Sludge Bomb
 ##### Petal Blizzard (take blossom particles and change their color to all the different ones that we can use)
 
-#### Cyndaquil (Hisuian only)
+### Cyndaquil (Hisuian only)
 ##### Blaze
 ##### Ember
 ##### Smoke Screen
 
-#### Quilava
+### Quilava
 ##### Blaze
 ##### Flame Burst
 ##### Swift
 ##### Smoke Screen
 
-#### Typhlosion
+### Typhlosion
 ##### Blaze
 ##### Infernal Parade
 ##### Flammethrower
 ##### Smoke Screen
 ##### Inferno (unleash a tornado of fire particles that moves forward, draws in horizontally hostiles but damages everything.
 
-#### Slugma
+### Slugma
 ##### Flame Body 
 ##### Ember
 ##### Rock Throw
 
-#### Magcargo
+### Magcargo
 ##### Flame Body
 ##### Incinerate
 ##### Rock Tomb
 ##### Stealth Rocks
 ##### Earth Power
 
-#### Weedle
+### Weedle
 ##### Run Away
 ##### Poison Sting
 
-#### Kakuna
+### Kakuna
 ##### Shed Skin
 ##### Poison Sting
 ##### Harden
 
-#### Beedrill
+### Beedrill
 ##### Sniper
 ##### Aerial Ace
 ##### Poison Jab
 ##### U-Turn (jump forward, upon hitting an entity, damages them and launch self upwards and backwards allowing elytra flight again)
 ##### Pin Missile
 
-#### Cutiefly
+### Cutiefly
 ##### Honey Gather
 ##### Fairy Wind
 
-#### Ribombee
+### Ribombee
 ##### Honey Gather
 ##### Pollen Puff
 ##### Draining Kiss
 ##### Aromatherapy
 ##### Bug Buzz (unleash multiple bug buzzes in front of you, like yuumi ult almost)
 
-#### Vulpix (Alolan only)
+### Vulpix (Alolan only)
 ##### Snow Cloak
 ##### Powder Snow
 
-#### Ninetales
+### Ninetales
 ##### Snow Cloak
 ##### Icy Wind
 ##### Dazzling Gleam
@@ -99,16 +99,16 @@
 ##### Toxic Spikes
 ##### Liquidation
 
-#### Solosis
+### Solosis
 ##### Magic Guard
 ##### Confusion
 
-#### Duosion
+### Duosion
 ##### Magic Guard
 ##### Psychock
 ##### Recover
 
-#### Reuniclus
+### Reuniclus
 ##### Magic Guard
 ##### Psychic
 ##### Psyshock
