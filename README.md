@@ -1,6 +1,20 @@
 # Pokemon in Minecraft
 
-#### Attributes
+### Pokemon (and lines):
+##### Celebi
+##### Horsea
+##### Sobble
+##### Oddish
+##### Rowlet
+##### Cyndaquil (Hisuian only)
+##### Slugma
+##### Weedle
+##### Cutiefly
+##### Vulpix (Alolan only)
+##### Mareanie
+##### Abra
+
+### Attributes
 ##### Cooldown Reduction
 ##### Current Mana
 ##### Max Mana
