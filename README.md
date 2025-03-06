@@ -126,7 +126,7 @@
 #### Flame Body: Immune to Freeze, physical attacks against this Pokemon will burn the attacker.
 #### Run Away: When taking damage from a living entity, increase Movement Speed
 #### Shed Skin: Every time you take damage from a living entity, clear negative effects.
-#### Honey Gather: Bees will never aggro you. 
+#### Honey Gather: Bees will never aggro you. Shearing honey will grant extra honey comb. Honey Bottle yielded will give extra hunger.
 #### Snow Cloak: when in a Snowy biome or 5-blocks away from a snow block, increase Evasion and Stealth by 25%.
 #### Merciless: If target is Poison, hits will always crit.
 #### Magic Guard: Immune to any type of damage that ISN'T from a living entity.
