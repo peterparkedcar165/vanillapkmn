@@ -28,25 +28,31 @@
 ###### Immune to Magma blocks damage, immunity to Burn. 
 
 ##### Poison:
-###### Cannot take damage from Poison or Wither (or maybe immune).
+###### Cannot take damage from Deadly Poison, poison or Wither (or maybe immune). Immune to Hunger, Blindness, Nausea.
 
 ##### Psychic:
 ###### Increased Cooldown Reduction and Mana Regeneration.
 
 ##### Ice:
-###### Immune to Freeze effect. IDK HOW BUT, can not fall into Powder Snow.
+###### Immune to Freeze effect. IDK HOW BUT, can not fall into Powder Snow. Immune to slow and mining fatigue.
 
 ##### Bug:
-###### Move through cobweb with no issue.
+###### Move through cobweb with no issue. Immune to cactus and berry bush damage.
 
 ##### Flying:
-###### Take no fall damage.
+###### Take no fall damage. No kinetic damage.
 
 ##### Fairy:
-###### Increase Special Attack Damage and Armor when near flowers.
+###### Increase Special Attack Damage and Armor when near flowers. Increase Cooldown Reduction and Mana Regen by a very small amount.
 
 ##### Ghost:
-###### Increase Evade Chance by 25%. Increase flight speed and movement speed in soul biomes.
+###### Increase Evade Chance by 15%, increased to 35% in light level < 6. Increase flight speed and movement speed in soul biomes.
+
+##### Rock:
+###### Increase Armor and Attack Damage in altitudes lower than 60. Immune to stalactite and stalagmite damage.
+
+##### Steel:
+###### Increase Attack Damage and Special AD based on Armor.
 
 
 
