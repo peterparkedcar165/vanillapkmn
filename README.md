@@ -1,37 +1,79 @@
 # Pokemon in Minecraft
 
 ### Pokemon (and lines):
-#### Oshawott 
 #### Oddish (Grass/Poison)
 ##### Chlorophyll
 ##### Absorb
 ##### Acid
+
 #### Gloom (Level 30)
 ##### Chlorophyll
 ##### Mega Drain
 ##### Acid
 ##### Sludge
+
 #### Vileplume (Level 55, with Leaf Stone already consumed)
 ##### Chlorophyll
 ##### Giga Drain
 ##### Acid Spray
 ##### Sludge Bomb
 ##### Petal Blizzard (take blossom particles and change their color to all the different ones that we can use)
+
 #### Cyndaquil (Hisuian only)
 ##### Blaze
 ##### Ember
 ##### Smoke Screen
+
 #### Quilava
 ##### Blaze
 ##### Flame Burst
 ##### Swift
 ##### Smoke Screen
+
+#### Typhlosion
+##### Blaze
+##### Infernal Parade
+##### Flammethrower
+##### Smoke Screen
+##### Inferno (unleash a tornado of fire particles that moves forward, draws in horizontally hostiles but damages everything.
+
 #### Slugma
+##### Flame Body 
+##### Ember
+##### Rock Throw
+
+#### Magcargo
+##### Flame Body
+##### Incinerate
+##### Rock Tomb
+##### Stealth Rocks
+##### Earth Power
+
 #### Weedle
+##### Run Away
+##### Poison Sting
+
+#### Kakuna
+##### Shed Skin
+##### Poison Sting
+##### Harden
+
+#### Beedrill
+##### Sniper
+##### Aerial Ace
+##### Poison Jab
+##### U-Turn (jump forward, upon hitting an entity, damages them and launch self upwards and backwards allowing elytra flight again)
+##### Pin Missile
+
 #### Cutiefly
 #### Vulpix (Alolan only)
 #### Mareanie
 #### Solosis
+
+### Abilities:
+#### Flame Body: Immune to Freeze, physical attacks against this Pokemon will burn the attacker.
+#### Run Away: When taking damage from a living entity, increase Movement Speed
+#### Shed Skin: Every time you take damage from a living entity, clear negative effects.
 
 ### Types:
 #### All moves will have relatively low base damage and scaling, STAB moves will have 0.25 increase in damage.
