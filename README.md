@@ -66,14 +66,64 @@
 ##### Pin Missile
 
 #### Cutiefly
+##### Honey Gather
+##### Fairy Wind
+
+#### Ribombee
+##### Honey Gather
+##### Pollen Puff
+##### Draining Kiss
+##### Aromatherapy
+##### Bug Buzz (unleash multiple bug buzzes in front of you, like yuumi ult almost)
+
 #### Vulpix (Alolan only)
+##### Snow Cloak
+##### Powder Snow
+
+#### Ninetales
+##### Snow Cloak
+##### Icy Wind
+##### Dazzling Gleam
+##### Aurora Beam
+##### Blizzard
+
 #### Mareanie
+##### Merciless
+##### Poison Sting
+##### Protect
+
+#### Toxapex
+##### Merciless
+##### Baneful Bunker
+##### Venoshock
+##### Toxic Spikes
+##### Liquidation
+
 #### Solosis
+##### Magic Guard
+##### Confusion
+
+#### Duosion
+##### Magic Guard
+##### Psychock
+##### Recover
+
+#### Reuniclus
+##### Magic Guard
+##### Psychic
+##### Psyshock
+##### Recover
+##### Psychic Terrain (huge, lasts long, increase Psychic power, invisible entities are glowing, reduce cooldown reduction of psychic type moves)
 
 ### Abilities:
 #### Flame Body: Immune to Freeze, physical attacks against this Pokemon will burn the attacker.
 #### Run Away: When taking damage from a living entity, increase Movement Speed
 #### Shed Skin: Every time you take damage from a living entity, clear negative effects.
+#### Honey Gather: Bees will never aggro you. 
+#### Snow Cloak: when in a Snowy biome or 5-blocks away from a snow block, increase Evasion and Stealth by 25%.
+#### Merciless: If target is Poison, hits will always crit.
+#### Magic Guard: Immune to any type of damage that ISN'T from a living entity.
+
 
 ### Types:
 #### All moves will have relatively low base damage and scaling, STAB moves will have 0.25 increase in damage.
@@ -116,9 +166,12 @@
 
 
 
-##### 
+### Specials:
+#### Cutiefly Line:
+##### You passively generate Pollen, once Pollen is full, press ` key to drop down a pollen to pollinate said crop below you.
 ### Attributes
 ##### Cooldown Reduction
+##### MOVE-TYPE Cooldown Reduction
 ##### Current Mana
 ##### Max Mana
 ##### Mana Regeneration
