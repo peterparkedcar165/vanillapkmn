@@ -19,6 +19,13 @@
 ##### Sludge Bomb
 ##### Petal Blizzard (take blossom particles and change their color to all the different ones that we can use)
 
+### Bellossom (Level 55, with Sun Stone already consumed)
+##### Chlorophyll
+##### Giga Drain
+##### Grassy Terrain
+##### Petal Dance
+##### Solar Beam
+
 ### Cyndaquil (Hisuian only)
 ##### Blaze
 ##### Ember
