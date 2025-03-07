@@ -3,9 +3,21 @@
 ### Pokemon (and lines):
 
 ### Popplio (Water)
+###### Size 50%, 
 ##### Torrent
 ##### Water Gun
-##### Disarming Voice
+##### Bubble Beam
+
+### Brionne (Water)
+##### Torrent
+##### Water Gun
+##### Bubble Beam
+##### Water Pulse
+
+### Primarina (Water/Fairy)
+##### Torrent
+##### 
+
 ### Oddish (Grass/Poison)
 ##### Chlorophyll
 ##### Absorb
@@ -142,6 +154,7 @@
 ##### Grass: 
 ###### Increase Movement Speed on leaves or grass.
 ###### Slowly regenerate hunger when standing in water or in rain, can also regenerate saturation as well, but only after hunger is full. Also regenerates mana faster
+###### Burn time increased by 50%.
 
 ##### Water:
 ###### Increase Swimming Speed by 35%, Mining Underwater speed is increased by 0.25. Permanent breathing. Water Movement Efficiency is set to 1.
