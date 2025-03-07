@@ -3,12 +3,15 @@
 ### Pokemon (and lines):
 
 ### Popplio (Water)
-###### Size 50%, 
+###### Size 50%, HP 50%.
+
 ##### Torrent
 ##### Water Gun
 ##### Bubble Beam
 
 ### Brionne (Water)
+###### Size 75%, HP 75%.
+
 ##### Torrent
 ##### Water Gun
 ##### Bubble Beam
@@ -16,7 +19,10 @@
 
 ### Primarina (Water/Fairy)
 ##### Torrent
-##### 
+##### Brine
+##### Water Pulse
+##### Dazzling Gleam
+##### Sparkling Aria
 
 ### Oddish (Grass/Poison)
 ##### Chlorophyll
