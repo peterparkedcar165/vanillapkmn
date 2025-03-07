@@ -1,6 +1,11 @@
 # Pokemon in Minecraft
 
 ### Pokemon (and lines):
+
+### Popplio (Water)
+##### Torrent
+##### Water Gun
+##### Disarming Voice
 ### Oddish (Grass/Poison)
 ##### Chlorophyll
 ##### Absorb
