@@ -18,6 +18,8 @@
 ##### Water Pulse
 
 ### Primarina (Water/Fairy)
+###### Size 100%, HP 100%.
+
 ##### Torrent
 ##### Brine
 ##### Water Pulse
