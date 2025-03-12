@@ -81,22 +81,6 @@
 ##### Stealth Rocks
 ##### Earth Power
 
-### Weedle
-##### Run Away
-##### Poison Sting
-
-### Kakuna
-##### Shed Skin
-##### Poison Sting
-##### Harden
-
-### Beedrill
-##### Sniper
-##### Aerial Ace
-##### Poison Jab
-##### U-Turn (jump forward, upon hitting an entity, damages them and launch self upwards and backwards allowing elytra flight again)
-##### Pin Missile
-
 ### Cutiefly
 ##### Honey Gather
 ##### Fairy Wind
@@ -119,17 +103,36 @@
 ##### Aurora Beam
 ##### Blizzard
 
-#### Mareanie
-##### Merciless
+#### Wurmple
+##### Run Away
 ##### Poison Sting
-##### Protect
+##### String Shot
 
-#### Toxapex
-##### Merciless
-##### Baneful Bunker
+#### Cascoon/Silcoon
+##### Shed Skin
+##### Poison Sting
+##### String Shot
+##### Harden
+
+#### Beautifly I
+##### Gust
+##### Mega Drain
+
+#### Beautifly II
+##### Air Slash
+##### Giga Drain
+##### Hurricane
+##### Bug Buzz
+
+#### Dustox I
+##### Sludge
+##### Struggle Bug
+
+#### Dustox II
+##### Sludge Bomb
 ##### Venoshock
-##### Toxic Spikes
-##### Liquidation
+##### Infestation
+##### Bug Buzz
 
 ### Solosis
 ##### Magic Guard
