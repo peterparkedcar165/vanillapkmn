@@ -23,7 +23,7 @@
 ##### Torrent
 ##### Brine
 ##### Water Pulse
-##### Dazzling Gleam
+##### Draining Kiss
 ##### Sparkling Aria
 
 ### Oddish (Grass/Poison)
