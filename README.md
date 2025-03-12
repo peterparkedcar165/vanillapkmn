@@ -200,7 +200,12 @@
 ##### Steel:
 ###### Increase Attack Damage and Special AD based on Armor.
 
-
+### Moves:
+#### Water Gun: Shoot 4 projectiles of little water sprays that damages first entity hit.
+#### Brine: Shoot 5 projectiles of little water sprays that damages first entity hit. Damage is increased by 25%? when target is under half health.
+#### Water Pulse: Shoot a bubble that damages and entraps the first target hit in a bubble that lifts them up and drowns them for 12 seconds. Reduced to 4 against players.
+#### Dazzling Gleam: Project light energy from self, dealing damage to nearby entities and blind them (if theyre looking at you, but idk if thats possible).
+#### Sparkling Aria: Summon a bubble that slowly grows in size on your position, after 3 seconds, bursts, deals damage to nearby hostiles, and heals allies. Also clears Burn.
 
 ### Specials:
 #### Cutiefly Line:
