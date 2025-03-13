@@ -10,7 +10,7 @@
 ##### Bubble Beam
 
 ### Brionne (Water)
-###### Size 75%, HP 75%.
+###### Size 75%, HP 75%. +15% Max Mana
 
 ##### Torrent
 ##### Water Gun
@@ -18,7 +18,7 @@
 ##### Water Pulse
 
 ### Primarina (Water/Fairy)
-###### Size 100%, HP 100%.
+###### Size 100%, HP 100%., +30% Max Mana
 
 ##### Torrent
 ##### Brine
