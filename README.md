@@ -169,6 +169,7 @@
 
 ##### Water:
 ###### Increase Swimming Speed by 35%, Mining Underwater speed is increased by 0.25. Permanent breathing. Water Movement Efficiency is set to 1.
+###### §9[Water]:\nSwim Speed: +35%\nUnderwater Mining Speed: +25%\nWater Movement Efficiency: +1
 
 ##### Fire:
 ###### Immune to Magma blocks damage, immunity to Burn. 
