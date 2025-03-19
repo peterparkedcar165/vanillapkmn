@@ -2,7 +2,7 @@
 
 ### Pokemon (and lines):
 
-### Popplio (Water)
+### Popplio (Water) CLASS: MAGE/CONTROLLER
 ###### Size 50%, HP 50%.
 
 ##### Torrent
@@ -26,7 +26,7 @@
 ##### Moonblast
 ##### Sparkling Aria
 
-### Oddish (Grass/Poison)
+### Oddish (Grass/Poison) MAGE/DEBUFFER
 ##### Chlorophyll
 ##### Absorb
 ##### Acid
@@ -44,7 +44,7 @@
 ##### Sludge Bomb
 ##### Petal Blizzard (take blossom particles and change their color to all the different ones that we can use)
 
-### Bellossom (Level 55, with Sun Stone already consumed)
+### Bellossom (Level 55, with Sun Stone already consumed) MAGE/SUPPORT
 ##### Chlorophyll
 ##### Giga Drain
 ##### Grassy Terrain
@@ -62,77 +62,52 @@
 ##### Swift
 ##### Smoke Screen
 
-### Typhlosion
+### Typhlosion MAGE DPS
 ##### Blaze
 ##### Infernal Parade
-##### Flammethrower
-##### Smoke Screen
+##### Flamethrower
+##### Eruption
 ##### Inferno (unleash a tornado of fire particles that moves forward, draws in horizontally hostiles but damages everything.
 
-### Slugma
-##### Flame Body 
-##### Ember
-##### Rock Throw
-
-### Magcargo
-##### Flame Body
-##### Incinerate
-##### Rock Tomb
-##### Stealth Rocks
-##### Earth Power
 
 ### Cutiefly
 ##### Honey Gather
 ##### Fairy Wind
 
-### Ribombee
+### Ribombee MAGE HEALER
 ##### Honey Gather
 ##### Pollen Puff
 ##### Draining Kiss
 ##### Aromatherapy
 ##### Bug Buzz (unleash multiple bug buzzes in front of you, like yuumi ult almost)
 
-### Vulpix (Alolan only)
+### Vulpix (Alolan only) 
 ##### Snow Cloak
 ##### Powder Snow
 
-### Ninetales
+### Ninetales MAGE CONTROLLER
 ##### Snow Cloak
 ##### Icy Wind
 ##### Dazzling Gleam
 ##### Aurora Beam
 ##### Blizzard
 
-#### Wurmple
-##### Run Away
-##### Poison Sting
-##### String Shot
+### Honedge
+##### No Guard: Increase Armor Penetration by 2.
+##### Shadow Sneak
 
-#### Cascoon/Silcoon
-##### Shed Skin
-##### Poison Sting
-##### String Shot
-##### Harden
+### Doublade
+##### No Guard
+##### Shadow Sneak
+##### Night Slash
+##### Fury Cutter
 
-#### Beautifly I
-##### Gust
-##### Mega Drain
+### Aegislash FIGHTER TANK
+##### Stance Change: Increase AD or Armor based main hand. has different moveset
+##### Shadow Sneak
+##### Sacred Sword
+##### 
 
-#### Beautifly II
-##### Air Slash
-##### Giga Drain
-##### Hurricane
-##### Bug Buzz
-
-#### Dustox I
-##### Sludge
-##### Struggle Bug
-
-#### Dustox II
-##### Sludge Bomb
-##### Venoshock
-##### Infestation
-##### Bug Buzz
 
 ### Solosis
 ##### Magic Guard
