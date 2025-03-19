@@ -23,7 +23,7 @@
 ##### Torrent
 ##### Brine
 ##### Water Pulse
-##### Draining Kiss
+##### Moonblast
 ##### Sparkling Aria
 
 ### Oddish (Grass/Poison)
@@ -205,6 +205,7 @@
 #### Brine: Shoot 5 projectiles of little water sprays that damages first entity hit. Damage is increased by 25%? when target is under half health.
 #### Water Pulse: Shoot a bubble that damages and entraps the first target hit in a bubble that lifts them up and drowns them for 12 seconds. Reduced to 4 against players.
 #### Dazzling Gleam: Project light energy from self, dealing damage to nearby entities and blind them (if theyre looking at you, but idk if thats possible).
+#### Moonblast: After a little channel, shoot a big moon block that travels straight with no gravity, and explodes after a long distance. Charge time is increased based on moon exposure.
 #### Sparkling Aria: Summon a bubble that slowly grows in size on your position, after 3 seconds, bursts, deals damage to nearby hostiles, and heals allies. Also clears Burn.
 
 ### Specials:
