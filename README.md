@@ -62,12 +62,12 @@
 ##### Smoke Screen
 ##### Flame Burst
 
-### Typhlosion MAGE DPS
+### Typhlosion (Shaman / Dps)
 ##### Blaze
 ##### Flamethrower
 ##### Eruption
 ##### Infernal Parade
-##### Inferno (unleash a tornado of fire particles that moves forward, draws in horizontally hostiles but damages everything.
+##### Inferno 
 
 
 ### Cutiefly
@@ -124,6 +124,18 @@
 ##### Psyshock
 ##### Recover
 ##### Psychic Terrain (huge, lasts long, increase Psychic power, invisible entities are glowing, reduce cooldown reduction of psychic type moves)
+
+### Espurr MAGE - (DPS / UTILITY)
+##### Keen Eyes
+##### Confusion
+##### Reflect
+
+### Meowstic M (Utility Mage)
+##### Prankster
+##### Psybeam
+##### Light Screen
+##### Charm
+##### Telekinesis
 
 ### Abilities:
 #### Flame Body: Immune to Freeze, physical attacks against this Pokemon will burn the attacker.
@@ -189,8 +201,15 @@
 #### Flame Burst: Shoot a blob of fire that bursts and turns into numerous small blobs of fire, causing molotovs to appear on the ground.
 #### Flamethrower: you know it
 #### Eruption: Cause the ground underneath to erupt, in a straight line, burning, damaging, and knocking up and back enemies. Damage, charge, and distance to increase per missing hp, down to 25% health.
-#### Infernal Parade: Summon ghosts that relentlessly chase enemies and explodes on contact with hostiles damages all entities nearby, burns them upon first hit, and then deal extra damage if they're affected by burn.
+#### Infernal Parade: Summon a totem that fire ghost skulls that burns entities on hit. Ghosts are fired at entities within the radius every time they get attacked (1 second cooldown per enemy). Players that are inside the radius deal an extra instance of Fire damage to those on fire.
 #### Inferno: Summon a field on the ground that erupts fire, and increases over time.
+
+#### Confusion: same as usual
+#### Reflect: Increase Armor by 4 to nearby allies.
+#### Psybeam: just like bubble beam but pierces, and uses velocitious particles instead, slow projectiles
+#### Light Screen: Increase Armor by 4 to nearby allies, it's a stronger Reflect, lasts longer and stacks with itself up to 3 levels.
+#### Charm: Blow a kiss that summons a heart on expiry or impact, enemies around that heart will have their Arrow Damage and Attack Damage reduced by half.
+#### Telekinesis: Channeled, for a set amount of seconds, lift all enemies upwards up to a certain delta height and inflict them with the glowing effect. When these enemies take damage, they take an extra instance of Psychic damage from the caster.
 
 ### Specials:
 #### Cutiefly Line:
