@@ -9,7 +9,7 @@
 ##### Water Gun
 ##### Bubble Beam
 
-### Brionne (Water)
+### Brionne (Water) CLASS: MAGE/CONTROLLER
 ###### Size 75%, HP 75%. +15% Max Mana
 
 ##### Torrent
@@ -17,7 +17,7 @@
 ##### Bubble Beam
 ##### Water Pulse
 
-### Primarina (Water/Fairy)
+### Primarina (Water/Fairy) CLASS: MAGE/CONTROLLER
 ###### Size 100%, HP 100%., +30% Max Mana
 
 ##### Torrent
@@ -58,15 +58,15 @@
 
 ### Quilava
 ##### Blaze
-##### Flame Burst
-##### Swift
+##### Ember
 ##### Smoke Screen
+##### Flame Burst
 
 ### Typhlosion MAGE DPS
 ##### Blaze
-##### Infernal Parade
 ##### Flamethrower
 ##### Eruption
+##### Infernal Parade
 ##### Inferno (unleash a tornado of fire particles that moves forward, draws in horizontally hostiles but damages everything.
 
 
@@ -178,11 +178,19 @@
 
 ### Moves:
 #### Water Gun: Shoot 4 projectiles of little water sprays that damages first entity hit.
+#### Bubble Beam: Shoot a relentless flurry of bubbles that damages first enemy hit.
 #### Brine: Shoot 5 projectiles of little water sprays that damages first entity hit. Damage is increased by 25%? when target is under half health.
 #### Water Pulse: Shoot a bubble that damages and entraps the first target hit in a bubble that lifts them up and drowns them for 12 seconds. Reduced to 4 against players.
-#### Dazzling Gleam: Project light energy from self, dealing damage to nearby entities and blind them (if theyre looking at you, but idk if thats possible).
 #### Moonblast: After a little channel, shoot a big moon block that travels straight with no gravity, and explodes after a long distance. Charge time is increased based on moon exposure. Channel time is also based on moon exposure.
 #### Sparkling Aria: Summon a bubble that slowly grows in size on your position, after 3 seconds, bursts, deals damage to nearby hostiles, and heals allies. Also clears Burn.
+
+#### Ember: Shoot a fire ball that burns and damages the first entity hit.
+#### Smoke Screen: Blow a smoke bomb that turns into a field of smoke, blinding hostiles, and stealthing players.
+#### Flame Burst: Shoot a blob of fire that bursts and turns into numerous small blobs of fire, causing molotovs to appear on the ground.
+#### Flamethrower: you know it
+#### Eruption: Cause the ground underneath to erupt, in a straight line, burning, damaging, and knocking up and back enemies. Damage, charge, and distance to increase per missing hp, down to 25% health.
+#### Infernal Parade: Summon ghosts that relentlessly chase enemies and explodes on contact with hostiles damages all entities nearby, burns them upon first hit, and then deal extra damage if they're affected by burn.
+#### Inferno: Summon a field on the ground that erupts fire, and increases over time.
 
 ### Specials:
 #### Cutiefly Line:
