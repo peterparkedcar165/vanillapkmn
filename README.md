@@ -109,33 +109,24 @@
 ##### 
 
 
-### Solosis
-##### Magic Guard
-##### Confusion
-
-### Duosion
-##### Magic Guard
-##### Psychock
-##### Recover
-
-### Reuniclus
-##### Magic Guard
-##### Psychic
-##### Psyshock
-##### Recover
-##### Psychic Terrain (huge, lasts long, increase Psychic power, invisible entities are glowing, reduce cooldown reduction of psychic type moves)
-
 ### Espurr MAGE - (DPS / UTILITY)
 ##### Keen Eyes
 ##### Confusion
 ##### Reflect
 
-### Meowstic M (Utility Mage)
+### Meowstic M (Utility Support Mage)
 ##### Prankster
 ##### Psybeam
 ##### Light Screen
-##### Charm
+##### Psychic Terrain
 ##### Telekinesis
+
+### Meowstic F (DPS Mage)
+##### Competitive
+##### Psychic
+##### Psyshock
+##### Shadow Ball
+##### Future Sight
 
 ### Abilities:
 #### Flame Body: Immune to Freeze, physical attacks against this Pokemon will burn the attacker.
@@ -145,6 +136,8 @@
 #### Snow Cloak: when in a Snowy biome or 5-blocks away from a snow block, increase Evasion and Stealth by 25%.
 #### Merciless: If target is Poison, hits will always crit.
 #### Magic Guard: Immune to any type of damage that ISN'T from a living entity.
+#### Prankster: Increase Status Moves Charge Rate by 25%, up to 75% when in combat.
+#### Competitive: Everytime each Attack Damage under 1, increase Special Attack Damage by the same amount.
 
 
 ### Types:
@@ -159,13 +152,13 @@
 ###### §9[Water]:\nSwim Speed: +35%\nUnderwater Mining Speed: +25%\nWater Movement Efficiency: +1
 
 ##### Fire:
-###### Immune to Magma blocks damage, immunity to Burn. 
+###### Immune to Magma blocks damage, immunity to Burn damage. 
 
 ##### Poison:
 ###### Cannot take damage from Deadly Poison, poison or Wither (or maybe immune). Immune to Hunger, Blindness, Nausea.
 
 ##### Psychic:
-###### Increased Cooldown Reduction and Mana Regeneration.
+###### Increased Charge Rate by 25% and Mana Regeneration by 25%. Endermen are not aggravated when looking in the eyes.
 
 ##### Ice:
 ###### Immune to Freeze effect. IDK HOW BUT, can not fall into Powder Snow. Immune to slow and mining fatigue.
@@ -209,7 +202,9 @@
 #### Psybeam: just like bubble beam but pierces, and uses velocitious particles instead, slow projectiles
 #### Light Screen: Increase Armor by 4 to nearby allies, it's a stronger Reflect, lasts longer and stacks with itself up to 3 levels.
 #### Charm: Blow a kiss that summons a heart on expiry or impact, enemies around that heart will have their Arrow Damage and Attack Damage reduced by half.
-#### Telekinesis: Channeled, for a set amount of seconds, lift all enemies upwards up to a certain delta height and inflict them with the glowing effect. When these enemies take damage, they take an extra instance of Psychic damage from the caster.
+#### Telekinesis: Channeled, for a set amount of seconds, lift all enemies upwards up to a certain delta height. When these enemies take damage, they take an extra instance of Psychic damage from the caster.
+
+#### Psychic Terrain: Huge terrain that boosts power of Psychic type moves, and increases Offensive Moves Charge Rate. Invisible hostiles inside that range are glowing.
 
 ### Specials:
 #### Cutiefly Line:
