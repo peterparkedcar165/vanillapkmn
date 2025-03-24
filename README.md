@@ -193,7 +193,7 @@
 #### Smoke Screen: Blow a smoke bomb that turns into a field of smoke, blinding hostiles, and stealthing players.
 #### Flame Burst: Shoot a blob of fire that bursts and turns into numerous small blobs of fire, causing molotovs to appear on the ground.
 #### Flamethrower: you know it
-#### Eruption: Cause the ground underneath to erupt, in a straight line, burning, damaging, and knocking up and back enemies. Damage, charge, and distance to increase per missing hp, down to 25% health.
+#### Eruption: Cause the ground to erupt in a * shape, + and x. When cast, given the Eruption effect for X ticks based on missing health. Then, for every (ticks % 5or10 == 0), cause eruption to happen, and increase eruption stack by 1. Each stack increases the distance, the intensity, and the damage of the eruptions. [+ shape should be easy, but x shape would be a bit harder). Every eruption will deal its specific damage, but the eruptions at same time wont stack with eachother as they will check if logic = eruptionDamage(YOUR UUID)(ABSOLUTE TIME) = false;
 #### Infernal Parade: Summon a totem that fire ghost skulls that burns entities on hit. Ghosts are fired at entities within the radius every time they get attacked (1 second cooldown per enemy). Players that are inside the radius deal an extra instance of Fire damage to those on fire.
 #### Inferno: Summon a field on the ground that erupts fire, and increases over time.
 
