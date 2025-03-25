@@ -65,7 +65,7 @@
 ### Typhlosion (Shaman / Dps)
 ##### Blaze
 ##### Flamethrower
-##### Eruption
+##### Lava Plume
 ##### Infernal Parade
 ##### Inferno 
 
@@ -185,13 +185,13 @@
 #### Water Gun: Shoot 4 projectiles of little water sprays that damages first entity hit.
 #### Bubble Beam: Shoot a relentless flurry of bubbles that damages first enemy hit.
 #### Brine: Shoot 5 projectiles of little water sprays that damages first entity hit. Damage is increased by 25%? when target is under half health.
-#### Water Pulse: Shoot a bubble that damages and entraps the first target hit in a bubble that lifts them up and drowns them for 12 seconds. Reduced to 4 against players.
+#### Water Pulse: Shoot a bubble that damages and entraps the first target hit in a bubble that lifts them up and drowns them for 12 seconds. Reduced to 4 against players. Hostiles caught in the bubble take an extra instance of Water damage from the Player attacker when hit.
 #### Moonblast: After a little channel, shoot a big moon block that travels straight with no gravity, and explodes after a long distance. Charge time is increased based on moon exposure. Channel time is also based on moon exposure.
 #### Sparkling Aria: Summon a bubble that slowly grows in size on your position, after 3 seconds, bursts, deals damage to nearby hostiles, and heals allies. Also clears Burn.
 
 #### Ember: Shoot a fire ball that burns and damages the first entity hit.
 #### Smoke Screen: Blow a smoke bomb that turns into a field of smoke, blinding hostiles, and stealthing players.
-#### Flame Burst: Shoot a blob of fire that bursts and turns into numerous small blobs of fire, causing molotovs to appear on the ground.
+#### Flame Burst: Shoot a blob of fire that bursts and damages the first entity hit and nearby entity hit.
 #### Flamethrower: you know it
 #### Eruption: Cause the ground to erupt in a * shape, + and x. When cast, given the Eruption effect for X ticks based on missing health. Then, for every (ticks % 5or10 == 0), cause eruption to happen, and increase eruption stack by 1. Each stack increases the distance, the intensity, and the damage of the eruptions. [+ shape should be easy, but x shape would be a bit harder). Every eruption will deal its specific damage, but the eruptions at same time wont stack with eachother as they will check if logic = eruptionDamage(YOUR UUID)(ABSOLUTE TIME) = false;
 #### Infernal Parade: Summon a totem that fire ghost skulls that burns entities on hit. Ghosts are fired at entities within the radius every time they get attacked (1 second cooldown per enemy). Players that are inside the radius deal an extra instance of Fire damage to those on fire.
