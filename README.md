@@ -194,6 +194,8 @@
 #### Flame Burst: Shoot a blob of fire that bursts and damages the first entity hit and nearby entity hit.
 #### Flamethrower: you know it
 #### Eruption: Cause the ground to erupt in a * shape, + and x. When cast, given the Eruption effect for X ticks based on missing health. Then, for every (ticks % 5or10 == 0), cause eruption to happen, and increase eruption stack by 1. Each stack increases the distance, the intensity, and the damage of the eruptions. [+ shape should be easy, but x shape would be a bit harder). Every eruption will deal its specific damage, but the eruptions at same time wont stack with eachother as they will check if logic = eruptionDamage(YOUR UUID)(ABSOLUTE TIME) = false;
+
+#### Lava Plume: Burst flames from self, dealing damage to nearby hostiles, and inflict them with the Armor Scorch effect, reducing their Armor by 6 points. 
 #### Infernal Parade: Summon a totem that increases Mana Regeneration and Mana Efficiency of nearby players. Shoots periodically a skull at hostiles in the radius, those skulls have aggro and follow the target. They explode upon hitting, dealing small damage that is increased if the targets are burning. Whenever a hostile within the range dies, players in the radius restore mana bsaed on Special Attack Damage.
 #### Inferno: Summon a field on the ground that erupts fire, and increases over time.
 
