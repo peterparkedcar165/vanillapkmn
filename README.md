@@ -162,6 +162,7 @@
 #### Magic Guard: Immune to any type of damage that ISN'T from a living entity.
 #### Prankster: Increase Status Moves Charge Rate by 25%, up to 75% when in combat.
 #### Competitive: Everytime each Attack Damage under 1, increase Special Attack Damage by the same amount.
+#### Keen Eyes: Immune to Blindness and Darkness. 
 
 
 ### Types:
@@ -182,7 +183,7 @@
 ###### Cannot take damage from Deadly Poison, poison or Wither (or maybe immune). Immune to Hunger, Blindness, Nausea.
 
 ##### Psychic:
-###### Increased Charge Rate by 25% and Mana Regeneration by 25%. Endermen are not aggravated when looking in the eyes.
+###### Increased Charge Rate by 25% and Mana Regeneration by 25%.
 
 ##### Ice:
 ###### Immune to Freeze effect. IDK HOW BUT, can not fall into Powder Snow. Immune to slow and mining fatigue.
@@ -245,6 +246,8 @@
 ### Specials:
 #### Cutiefly Line:
 ##### You passively generate Pollen, once Pollen is full, press ` key to drop down a pollen to pollinate said crop below you.
+#### Espurr Line:
+##### Creepers run away from you.
 
 #### Typhlosion:
 ##### Fire attacks are blue
