@@ -26,6 +26,8 @@
 ##### Moonblast
 ##### Sparkling Aria
 
+### Chespin LINE
+
 ### Oddish (Grass/Poison) MAGE/DEBUFFER
 ##### Chlorophyll
 ##### Absorb
