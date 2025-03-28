@@ -162,7 +162,7 @@
 #### Magic Guard: Immune to any type of damage that ISN'T from a living entity.
 #### Prankster: Increase Status Moves Charge Rate by 25%, up to 75% when in combat.
 #### Competitive: Everytime each Attack Damage under 1, increase Special Attack Damage by the same amount.
-#### Keen Eyes: Immune to Blindness and Darkness. 
+#### Keen Eyes: Always Brush off Nausea Blindness and Darkness
 
 
 ### Types:
