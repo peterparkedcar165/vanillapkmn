@@ -26,7 +26,12 @@
 ##### Moonblast
 ##### Sparkling Aria
 
-### Chespin LINE
+### Chikorita (Grass) CLASS: BRUISER
+###### Size 50%, HP 50%.
+
+##### Overgrow
+
+##### 
 
 ### Oddish (Grass/Poison) MAGE/DEBUFFER
 ##### Chlorophyll
@@ -68,8 +73,8 @@
 ##### Blaze
 ##### Flamethrower
 ##### Lava Plume
+##### Curse
 ##### Infernal Parade
-##### Inferno 
 
 
 ### Cutiefly
