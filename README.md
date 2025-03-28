@@ -26,12 +26,29 @@
 ##### Moonblast
 ##### Sparkling Aria
 
-### Chikorita (Grass) CLASS: BRUISER
+### Rowlet (Grass/Flying) CLASS: ARCHER
 ###### Size 50%, HP 50%.
 
 ##### Overgrow
+##### Leafage
+##### Peck
 
-##### 
+### Dartrix (Grass/Flying) CLASS: ARCHER
+###### Size 75%, HP 75%.
+
+##### Overgrow
+##### Razor Leaf
+##### Aerial Ace
+##### Leafage
+
+### Decidueye (Grass/Ghost) CLASS: ARCHER
+###### Size 100%, HP 100%.
+
+##### Overgrow
+##### Leaf Blade
+##### Brave Bird
+##### Phantom Force
+##### Spirit Shackle
 
 ### Oddish (Grass/Poison) MAGE/DEBUFFER
 ##### Chlorophyll
@@ -205,6 +222,16 @@
 #### Lava Plume: Burst flames from self, dealing damage to nearby hostiles, and inflict them with the Armor Scorch effect, reducing their Armor by 6 points. 
 #### Infernal Parade: Summon a totem that increases Mana Regeneration and Mana Efficiency of nearby players. Shoots periodically a skull at hostiles in the radius, those skulls have aggro and follow the target. They explode upon hitting, dealing small damage that is increased if the targets are burning. Whenever a hostile within the range dies, players in the radius restore mana bsaed on Special Attack Damage.
 #### Inferno: Summon a field on the ground that erupts fire, and increases over time.
+#### Curse: Summon a field that reduce gradually AD, MS, Armor
+
+#### Leafage: Shoot 3 leafs from body towards front. Arrows hit reduce cooldown
+#### Peck: Initiate Elytra flight, and propel forward, dealing damage to first entity hit, and stops the flight. During the effect, immune to damage from Living Entities.
+#### Razor Leaf: Shoot 7 leaves from body towards front. Then grant effect that shoots more leaves when hitting an entity with Arrows.
+#### Aerial Ace: Stronger Peck
+#### Leaf Blade: Shoot a lot of small Wooden Swords like Razor Leaf. Then grant the same effect as Razor Leaf
+#### Brave Bird: Strong Aerial Ace
+#### Phantom Force: Turn "invisible" increasing Stealth to 100%. Upon attacking, deal an extra instance of Ghost type damage, and unveal invisibility.
+#### Spirit Shackle: Launch an arrow that detonates upon impact, and drags entities in one shot, then summon a spectral "air strike" raining down arrows that explode and deal damage.
 
 #### Confusion: same as usual
 #### Reflect: Increase Armor by 4 to nearby allies.
