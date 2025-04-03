@@ -26,14 +26,14 @@
 ##### Moonblast
 ##### Sparkling Aria
 
-### Rowlet (Grass/Flying) CLASS: ARCHER
+### Rowlet (Grass/Flying) CLASS: RANGER
 ###### Size 50%, HP 50%.
 
 ##### Overgrow
 ##### Leafage
 ##### Peck
 
-### Dartrix (Grass/Flying) CLASS: ARCHER
+### Dartrix (Grass/Flying) CLASS: RANGER
 ###### Size 75%, HP 75%.
 
 ##### Overgrow
@@ -41,7 +41,7 @@
 ##### Aerial Ace
 ##### Leafage
 
-### Decidueye (Grass/Ghost) CLASS: ARCHER
+### Decidueye (Grass/Ghost) CLASS: RANGER
 ###### Size 100%, HP 100%.
 
 ##### Overgrow
@@ -49,6 +49,31 @@
 ##### Brave Bird
 ##### Phantom Force
 ##### Spirit Shackle
+
+### Sobble (Water) CLASS: MARKSMAN
+###### Size 50%, HP 50%.
+
+##### Arrows and Spectral Arrows fired from bows and crossbows will instead shoot water projectiles, dealing the exact same damage formula, but with a Water type attribute to it, allowing it to hit super effective against WeakToWaters, consequently, flame is not possible. This effect lingers for all three evolutions.
+
+##### Torrent
+##### Water Gun
+##### U-Turn
+
+### Drizzile (Water) CLASS: MARKSMAN
+
+##### Torrent
+##### Mud Shot
+##### U-Turn
+##### Double Team
+
+### Inteleon (Water) CLASS: Marksman
+##### On top of having the passive water arrows, for (every tick / draw speed) that inteleon charges arrows, we increase the Arrow Velocity by 0.005 and Movement Speed is decreased by 2.5%.
+
+##### Torrent
+##### Snipe Shot
+##### U-Turn
+##### Bounce
+##### ... TBD
 
 ### Oddish (Grass/Poison) MAGE/DEBUFFER
 ##### Chlorophyll
