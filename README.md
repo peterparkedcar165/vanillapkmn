@@ -292,14 +292,15 @@
 
 ### Curios: [Earrings, Rings, Pendant, Belt]
 #### Spiritflow Set:
-##### Each Piece: +2 Mana, +0.125 Mana per second, +5% Mana Efficiency
-##### Radiant: +4 Mana, +0.25 Mana per second, +10% Mana Efficiency
-##### Set Bonus: (2) - +1 Mana per second || (3) - +25% Mana Efficiency || (4) - When receiving damage that would reduce health under 25%, create Absorption shields equal to current Mana.
+##### Each Piece: +2 Mana, +0.125 Mana Regeneration, +5% Mana Efficiency
+##### Radiant: +4 Mana, +0.25 Mana Regeneration, +10% Mana Efficiency
+##### Set Bonus: (2) - +0.5 Charge Rate || (3) - +25% Mana Efficiency || (4) - +1 Mana Regeneration
 
 ### Attributes
-##### Charge Rate | Sets rate at which abilities recharge.
-##### Healing Moves Charge Rate | Sets an additional charge rate multiplier for moves that are specifically for healing.
-##### Status Moves Charge Rate | Sets an additional charge rate multiplier for moves that are specifically for status effects (not healing).
+##### Charge Rate |                     Sets rate at which abilities recharge.
+##### Offensive Moves Charge Rate |     Sets an additional charge rate multiplier for moves that are specifically for direct damaging.
+##### Healing Moves Charge Rate |       Sets an additional charge rate multiplier for moves that are specifically for healing.
+##### Status Moves Charge Rate |        Sets an additional charge rate multiplier for moves that are specifically for status effects (not healing).
 ##### Mana | Current Mana
 ##### Max Mana | Max Mana (Base 10)
 ##### Mana Regeneration | Translates to Mana per second. For each point of Mana Regeneration = Mana per second.
