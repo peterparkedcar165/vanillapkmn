@@ -278,23 +278,23 @@
 
 ### Items:
 ###### Note that potions will be self-procedured. Meaning that I am making the procedures myself. 5 ticks of usage, upon consumption, play La Tale sounds. Combo plays both. And have particles moving outwards and then upwards. 10 seconds cooldown for each type of potion.
-#### Weak Mana Potion: +4 Mana
-#### Mana Potion: +8 Mana
-#### Potent Mana Potion: +12 Mana
+#### Weak Mana Potion: +8 Mana
+#### Mana Potion: +14 Mana
+#### Potent Mana Potion: +20 Mana
 
-#### Weak Health Potion: +2 Health
-#### Health Potion: +4 Health
-#### Potent Health Potion: +6 Health
+#### Weak Health Potion: +4 Health
+#### Health Potion: +8 Health
+#### Potent Health Potion: +12 Health
 
-#### Weak Dual Potion: +3 Health, +5 Mana
-#### Dual Potion: +5 Health, +9 Mana
-#### Potent Dual Potion: +7 Health, +13 Mana
+#### Weak Dual Potion: +6 Health, +10 Mana
+#### Dual Potion: +10 Health, +16 Mana
+#### Potent Dual Potion: +14 Health, +22 Mana
 
 ### Curios: [Earrings, Rings, Pendant, Belt]
 #### Spiritflow Set:
-##### Each Piece: +2 Mana, +0.125 Mana Regeneration, +5% Mana Efficiency
-##### Radiant: +4 Mana, +0.25 Mana Regeneration, +10% Mana Efficiency
-##### Set Bonus: (2) - +0.5 Charge Rate || (3) - +25% Mana Efficiency || (4) - +1 Mana Regeneration
+##### Each Piece: +2 Mana, +0.125 Mana Regeneration, +2.5% Mana Efficiency
+##### Radiant: +4 Mana, +0.25 Mana Regeneration, +5% Mana Efficiency
+##### Set Bonus: (2) - +0.5 Charge Rate || (3) - +10% Mana Efficiency || (4) - +1 Mana Regeneration
 
 ### Attributes
 ##### Charge Rate |                     Sets rate at which abilities recharge.
