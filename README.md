@@ -273,9 +273,29 @@
 ##### You passively generate Pollen, once Pollen is full, press ` key to drop down a pollen to pollinate said crop below you.
 #### Espurr Line:
 ##### Creepers run away from you.
-
 #### Typhlosion:
 ##### Fire attacks are blue
+
+### Items:
+###### Note that potions will be self-procedured. Meaning that I am making the procedures myself. 5 ticks of usage, upon consumption, play La Tale sounds. Combo plays both. And have particles moving outwards and then upwards. 10 seconds cooldown for each type of potion.
+#### Weak Mana Potion: +4 Mana
+#### Mana Potion: +8 Mana
+#### Potent Mana Potion: +12 Mana
+
+#### Weak Health Potion: +2 Health
+#### Health Potion: +4 Health
+#### Potent Health Potion: +6 Health
+
+#### Weak Dual Potion: +3 Health, +5 Mana
+#### Dual Potion: +5 Health, +9 Mana
+#### Potent Dual Potion: +7 Health, +13 Mana
+
+### Curios: [Earrings, Rings, Pendant, Belt]
+#### Spiritflow Set:
+##### Each Piece: +2 Mana, +0.25 Mana per second, +5% Mana Efficiency
+##### Radiant: +4 Mana, +0.5 Mana per second, +10% Mana Efficiency
+##### Set Bonus: (2) - +1 Mana per second || (3) - +25% Mana Efficiency || (4) - When receiving damage that would reduce health under 25%, create Absorption shields equal to half of current Mana.
+
 ### Attributes
 ##### Cooldown Reduction
 ##### MOVE-TYPE Cooldown Reduction
