@@ -294,13 +294,14 @@
 #### Spiritflow Set:
 ##### Each Piece: +2 Mana, +0.25 Mana per second, +5% Mana Efficiency
 ##### Radiant: +4 Mana, +0.5 Mana per second, +10% Mana Efficiency
-##### Set Bonus: (2) - +1 Mana per second || (3) - +25% Mana Efficiency || (4) - When receiving damage that would reduce health under 25%, create Absorption shields equal to half of current Mana.
+##### Set Bonus: (2) - +1 Mana per second || (3) - +25% Mana Efficiency || (4) - When receiving damage that would reduce health under 25%, create Absorption shields equal to current Mana.
 
 ### Attributes
-##### Cooldown Reduction
-##### MOVE-TYPE Cooldown Reduction
-##### Current Mana
-##### Max Mana
-##### Mana Regeneration
-##### Move Max Cooldown - the maximum tick of cooldown a move can have, will be constant.
-##### Move Cooldown - when casting a spell, set the move cooldown to the max move cooldown. whenever cooldown is higher than max, set cooldown to max.
+##### Charge Rate | Sets rate at which abilities recharge.
+##### Healing Moves Charge Rate | Sets an additional charge rate multiplier for moves that are specifically for healing.
+##### Status Moves Charge Rate | Sets an additional charge rate multiplier for moves that are specifically for status effects (not healing).
+##### Mana | Current Mana
+##### Max Mana | Max Mana (Base 10)
+##### Mana Regeneration | Translates to Mana per second. For each point of Mana Regeneration = Mana per second.
+##### Move Max Cooldown | The maximum tick of cooldown a move can have, will be constant.
+##### Move Cooldown | When casting a spell, set the move cooldown to the max move cooldown. whenever cooldown is higher than max, set cooldown to max.
