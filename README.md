@@ -292,8 +292,8 @@
 
 ### Curios: [Earrings, Rings, Pendant, Belt]
 #### Spiritflow Set:
-##### Each Piece: +2 Mana, +0.25 Mana per second, +5% Mana Efficiency
-##### Radiant: +4 Mana, +0.5 Mana per second, +10% Mana Efficiency
+##### Each Piece: +2 Mana, +0.125 Mana per second, +5% Mana Efficiency
+##### Radiant: +4 Mana, +0.25 Mana per second, +10% Mana Efficiency
 ##### Set Bonus: (2) - +1 Mana per second || (3) - +25% Mana Efficiency || (4) - When receiving damage that would reduce health under 25%, create Absorption shields equal to current Mana.
 
 ### Attributes
