@@ -296,6 +296,9 @@
 ##### Radiant: +4 Mana, +0.25 Mana Regeneration, +5% Mana Efficiency
 ##### Set Bonus: (2) - +0.5 Charge Rate || (3) - +10% Mana Efficiency || (4) - +1 Mana Regeneration
 
+#### *Speed* Set:
+###### Each Piece: 
+
 ### Attributes
 ##### Charge Rate |                     Sets rate at which abilities recharge.
 ##### Offensive Moves Charge Rate |     Sets an additional charge rate multiplier for moves that are specifically for direct damaging.
