@@ -220,7 +220,7 @@
 ###### Take no fall damage. No kinetic damage.
 
 ##### Fairy:
-###### Increase Special Attack Damage and Armor when near flowers. Increase Cooldown Reduction and Mana Regen by a very small amount.
+###### Increase Special Attack Damage and Attack Damage, doubled when exposed to moon.
 
 ##### Ghost:
 ###### Increase Evade Chance by 15%, increased to 35% in light level < 6. Increase flight speed and movement speed in soul biomes.
