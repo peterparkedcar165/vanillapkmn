@@ -296,16 +296,23 @@
 ##### Radiant: +4 Mana, +0.25 Mana Regeneration, +5% Mana Efficiency
 ##### Set Bonus: (2) - +0.5 Charge Rate || (3) - +10% Mana Efficiency || (4) - +1 Mana Regeneration
 
-#### *Speed* Set:
+#### *Alacrity* Set:
 ###### Each Piece: 
+
+#### *Stoneheart* Set:
+###### Each Piece:
+
+#### *Altruism* Set:
+###### Each Piece:
 
 ### Attributes
 ##### Charge Rate |                     Sets rate at which abilities recharge.
 ##### Offensive Moves Charge Rate |     Sets an additional charge rate multiplier for moves that are specifically for direct damaging.
 ##### Healing Moves Charge Rate |       Sets an additional charge rate multiplier for moves that are specifically for healing.
 ##### Status Moves Charge Rate |        Sets an additional charge rate multiplier for moves that are specifically for status effects (not healing).
-##### Mana | Current Mana
-##### Max Mana | Max Mana (Base 10)
-##### Mana Regeneration | Translates to Mana per second. For each point of Mana Regeneration = Mana per second.
-##### Move Max Cooldown | The maximum tick of cooldown a move can have, will be constant.
-##### Move Cooldown | When casting a spell, set the move cooldown to the max move cooldown. whenever cooldown is higher than max, set cooldown to max.
+##### Mana |                            Current Mana
+##### Max Mana |                        Max Mana (Base 10)
+##### Mana Regeneration |               Translates to Mana per second. For each point of Mana Regeneration = Mana per second.
+##### Move Max Cooldown |               The maximum tick of cooldown a move can have, will be constant.
+##### Move Cooldown |                   When casting a spell, set the move cooldown to the max move cooldown. whenever cooldown is higher than max, set cooldown to max.
+##### Potion Cooldown |                 
