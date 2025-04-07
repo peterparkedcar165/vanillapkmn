@@ -177,6 +177,23 @@
 ##### Shadow Ball
 ##### Future Sight
 
+### Tapu Fini (Mage Support Healer)
+##### Mystic Surge: The area around self is "misty" players CANNOT receive negative effects while in the radius, but do not heal from pre-existing ones.
+### Stage 1: 
+##### Water Gun
+##### Life Dew
+##### Water Pulse
+### Stage 2: 
+##### Brine
+##### Life Dew
+##### Water Pulse
+##### Aqua Ring
+### Stage 3: 
+##### Hydro Pump
+##### Heal Pulse
+##### Aqua Ring
+##### Nature's Madness
+
 ### Abilities:
 #### Flame Body: Immune to Freeze, physical attacks against this Pokemon will burn the attacker.
 #### Run Away: When taking damage from a living entity, increase Movement Speed
