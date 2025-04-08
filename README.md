@@ -314,17 +314,19 @@
 ##### Set Bonus: (2) - +0.5 Charge Rate || (3) - +10% Mana Efficiency || (4) - +1 Mana Regeneration
 
 #### *Windwalker* Set:
-###### Each Piece: +2.5% Movement Speed, +10% Attack Speed, +5% Draw Speed, 5% Sneak Speed
+##### Each Piece: +2.5% Movement Speed, +10% Attack Speed, +5% Draw Speed, 5% Sneak Speed
 ##### Radiant: 5% | 20% | 10% | 10%
 ##### Set Bonus: (2) - Every second that you are horizontally in movement, grant Alacrity, increasing Movement Speed by 1%, Draw Speed by 2.5%, Attack Speed by 5% Sneak Speed by 2.5% up to 10. (3) - +8 Safe Falling Distance, +0.6 Step Height. (4) - Increase Evasion based on Movement Speed. Increase Charge Rate based on Movement Speed.
 
 #### *Stoneheart* Set:
-###### Each Piece: +1.5 Armor, +0.25 Toughness, +0.05 KB Resistance, +1 Health.
-###### Radiant: 3 | 0.5 | 0.1 | 2
-###### Set Bonus: (2) - Increase Armor by 15% of total. (3) - Increase SpAD, Arrow Damage, and AD based on 10% (1% for Arrow Damage) of total Armor. (4) - When taking damage, return damage considered Rock-type, equal to 15% of Armor.
+##### Each Piece: +1.5 Armor, +0.25 Toughness, +0.05 KB Resistance, +1 Health.
+##### Radiant: 3 | 0.5 | 0.1 | 2
+##### Set Bonus: (2) - Increase Armor by 15% of total. (3) - Increase SpAD, Arrow Damage, and AD based on 10% (1% for Arrow Damage) of total Armor. (4) - When taking damage, return damage considered Rock-type, equal to 15% of Armor.
 
 #### *Altruism* Set:
-###### Each Piece:
+##### Each Piece: +2.5% Healing Bonus, +7.5% Healing/Status Charge Rate, +2.5% Given Buff Duration, -0.5 Potion Cooldown, +5% Mana Efficiency
+##### Radiant: 5% | 15% | 5% | -1 | 10%
+##### Set Bonus: (2) - Healing allies with a move grants Rejuvenation I, slowly regenerating health and mana over time. (3) - +50% Given Buff Duration. (4) - Everytime you cast a healing ability, Healer gauge goes up 1, when gauge is 4, next healing ability's effectiveness is doubled. (aka +100% Healing Power), and counter goes back to 0.
 
 ### Attributes
 ##### Charge Rate |                     Sets rate at which abilities recharge.
