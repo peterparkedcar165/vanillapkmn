@@ -45,7 +45,7 @@
 ###### Size 100%, HP 100%.
 
 ##### Overgrow
-##### Leaf Blade
+##### Leaf Storm
 ##### Brave Bird
 ##### Phantom Force
 ##### Spirit Shackle
