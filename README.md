@@ -292,6 +292,11 @@
 ##### Creepers run away from you.
 #### Typhlosion:
 ##### Fire attacks are blue
+#### Rowlet, Dartrix, Decidueye:
+##### Elytra Flight, gauged.
+##### Increase Arrow Damage and Velocity by equal amounts equal to (Special Attack * 0.01|0.015|0.02)
+#### Decidueye
+##### Inherit Flying-Type immunities
 
 ### Items:
 ###### Note that potions will be self-procedured. Meaning that I am making the procedures myself. 5 ticks of usage, upon consumption, play La Tale sounds. Combo plays both. And have particles moving outwards and then upwards. 10 seconds cooldown for each type of potion.
