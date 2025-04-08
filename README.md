@@ -314,7 +314,9 @@
 ##### Set Bonus: (2) - +0.5 Charge Rate || (3) - +10% Mana Efficiency || (4) - +1 Mana Regeneration
 
 #### *Windwalker* Set:
-###### Each Piece: +2.5% Movement Speed, +
+###### Each Piece: +2.5% Movement Speed, +10% Attack Speed, +5% Draw Speed, 5% Sneak Speed
+##### Radiant: 5% | 20% | 10% | 10%
+##### Set Bonus: (2) - Every second that you are horizontally in movement, grant Alacrity, increasing Movement Speed by 1%, Draw Speed by 2.5%, Attack Speed by 5% Sneak Speed by 2.5% up to 10. (3) - +8 Safe Falling Distance, +0.6 Step Height. (4) - Increase Evasion based on Movement Speed. Increase Charge Rate based on Movement Speed.
 
 #### *Stoneheart* Set:
 ###### Each Piece:
