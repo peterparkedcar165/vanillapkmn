@@ -319,7 +319,9 @@
 ##### Set Bonus: (2) - Every second that you are horizontally in movement, grant Alacrity, increasing Movement Speed by 1%, Draw Speed by 2.5%, Attack Speed by 5% Sneak Speed by 2.5% up to 10. (3) - +8 Safe Falling Distance, +0.6 Step Height. (4) - Increase Evasion based on Movement Speed. Increase Charge Rate based on Movement Speed.
 
 #### *Stoneheart* Set:
-###### Each Piece:
+###### Each Piece: +1.5 Armor, +0.25 Toughness, +0.05 KB Resistance, +1 Health.
+###### Radiant: 3 | 0.5 | 0.1 | 2
+###### Set Bonus: (2) - Increase Armor by 15% of total. (3) - Increase SpAD, Arrow Damage, and AD based on 10% (1% for Arrow Damage) of total Armor. (4) - When taking damage, return damage considered Rock-type, equal to 15% of Armor.
 
 #### *Altruism* Set:
 ###### Each Piece:
