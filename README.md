@@ -210,8 +210,8 @@
 ### Types:
 #### All moves will have relatively low base damage and scaling, STAB moves will have 0.25 increase in damage.
 ##### Grass: 
-###### Increase Movement Speed on leaves or grass.
-###### Slowly regenerate Hunger and Mana when exposed to sun, and rain.
+###### Increase Movement Speed when in Taigas, Forests, Hills, and Jungles
+###### Slowly regenerate Hunger and Mana when exposed to rain.
 
 ##### Water:
 ###### Increase Swimming Speed by 35%, Mining Underwater speed is increased by 0.25. Permanent breathing. Water Movement Efficiency is set to 1.
