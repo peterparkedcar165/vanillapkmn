@@ -220,6 +220,7 @@
 
 ##### Fire:
 ###### Immune to Magma blocks damage, immunity to Burn damage. 
+###### §c[Fire]:\n\nImmunity to Magma Block damage\nImmunity to Burn damage
 
 ##### Poison:
 ###### Cannot take damage from Deadly Poison, poison or Wither (or maybe immune). Immune to Hunger, Blindness, Nausea.
