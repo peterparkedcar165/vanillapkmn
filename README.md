@@ -308,13 +308,13 @@
 #### Potent Dual Potion: +14 Health, +22 Mana
 
 ### Curios: [Earrings, Rings, Pendant, Belt]
-#### Spiritflow Set:
+#### *Spiritflow* Set:
 ##### Each Piece: +2 Mana, +0.125 Mana Regeneration, +2.5% Mana Efficiency
 ##### Radiant: +4 Mana, +0.25 Mana Regeneration, +5% Mana Efficiency
 ##### Set Bonus: (2) - +0.5 Charge Rate || (3) - +10% Mana Efficiency || (4) - +1 Mana Regeneration
 
-#### *Alacrity* Set:
-###### Each Piece: 
+#### *Windwalker* Set:
+###### Each Piece: +2.5% Movement Speed, +
 
 #### *Stoneheart* Set:
 ###### Each Piece:
