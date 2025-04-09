@@ -141,20 +141,8 @@
 ##### Aurora Beam
 ##### Blizzard
 
-### Honedge
-##### No Guard: Increase Armor Penetration by 2.
-##### Shadow Sneak
-
-### Doublade
-##### No Guard
-##### Shadow Sneak
-##### Night Slash
-##### Fury Cutter
-
-### Aegislash FIGHTER TANK
-##### Stance Change: Increase AD or Armor based main hand. has different moveset
-##### Shadow Sneak
-##### Sacred Sword
+### Farfectch'd Galarian SWORD AND SHIELD BRUISER
+##### Steadfast
 ##### 
 
 
