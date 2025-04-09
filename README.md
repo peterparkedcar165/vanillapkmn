@@ -53,7 +53,7 @@
 ### Sobble (Water) CLASS: MARKSMAN
 ###### Size 50%, HP 50%.
 
-##### Arrows and Spectral Arrows fired from bows and crossbows will instead shoot water projectiles, dealing the exact same damage formula, but with a Water type attribute to it, allowing it to hit super effective against WeakToWaters, consequently, flame is not possible. This effect lingers for all three evolutions.
+##### Arrows and Spectral Arrows shots deal extra instances of Water damage to targets. They also have water particles on the arrows.
 
 ##### Torrent
 ##### Water Gun
@@ -62,9 +62,9 @@
 ### Drizzile (Water) CLASS: MARKSMAN
 
 ##### Torrent
-##### Mud Shot
+##### Water Gun
 ##### U-Turn
-##### Double Team
+##### Mud Shot
 
 ### Inteleon (Water) CLASS: Marksman
 ##### On top of having the passive water arrows, for (every tick / draw speed) that inteleon charges arrows, we increase the Arrow Velocity by 0.005 and Movement Speed is decreased by 2.5%.
@@ -72,8 +72,8 @@
 ##### Torrent
 ##### Snipe Shot
 ##### U-Turn
-##### Bounce
-##### ... TBD
+##### Aqua Jet (dash forward and shoot splashes of water to nearby targets, once.
+##### Snipe Shot (Increase Arrow Velocity. Every arrow hit fires 3 water projectiles from around self towards the target)
 
 ### Oddish (Grass/Poison) MAGE/DEBUFFER
 ##### Chlorophyll
